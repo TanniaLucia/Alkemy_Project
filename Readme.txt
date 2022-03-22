@@ -1,13 +1,13 @@
-#Challenge Data Analytics - Python 🚀
+# Challenge Data Analytics - Python 🚀
 En este proyecto se encuentra el desarrollo del reto Data Analytics con python para Alkemy
 
-##Requerimientos
+## Requerimientos
 
 Es requerido instalar y configurar el entorno virtual en donde se ejecutará las respectivas librerias
 
 .\venv\Scripts\activate
 
-##Ejecución
+## Ejecución
 
 Para la correcta ejecución, son necesarios todos los archivos que se encuentran en el directorio src, además de la instalación de las librerias que se encuentran en el archivo 'requirements.txt'. Para esto, puede ejecutar el siguiente comando:
 
