@@ -1,0 +1,15 @@
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): datos.cultura.gob.ar:443
+DEBUG:urllib3.connectionpool:https://datos.cultura.gob.ar:443 "GET /dataset/37305de4-3cce-4d4b-9d9a-fec3ca61d09f/resource/4207def0-2ff7-41d5-9095-d42ae8207a5d/download/museo.csv HTTP/1.1" 200 299625
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): datos.cultura.gob.ar:443
+DEBUG:urllib3.connectionpool:https://datos.cultura.gob.ar:443 "GET /dataset/37305de4-3cce-4d4b-9d9a-fec3ca61d09f/resource/392ce1a8-ef11-4776-b280-6f1c7fae16ae/download/cine.csv HTTP/1.1" 200 96427
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): datos.cultura.gob.ar:443
+DEBUG:urllib3.connectionpool:https://datos.cultura.gob.ar:443 "GET /dataset/37305de4-3cce-4d4b-9d9a-fec3ca61d09f/resource/01c6c048-dbeb-44e0-8efa-6944f73715d7/download/biblioteca_popular.csv HTTP/1.1" 200 511527
+INFO:root:The three dataframes were concatenated successfully
+INFO:root:The three dataframes were concatenated successfully
+INFO:root:The three dataframes were concatenated successfully
+INFO:root:The table was created successfully
+INFO:root:The table was created successfully
+INFO:root:The table was created successfully
+INFO:root:The information in the table has been updated
+INFO:root:The information in the table has been updated
+INFO:root:The information in the table has been updated
